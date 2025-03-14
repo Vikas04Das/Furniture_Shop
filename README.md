@@ -1,5 +1,7 @@
 # Furniture Shop Website
 
+<h3>Link : https://vikas4das.github.io/Furniture_Shop/</h3>
+
 ## Description
 
 This is a fully functional furniture shop website, designed to showcase various furniture items available for purchase. The website provides an easy-to-navigate interface for users to browse through different categories of furniture, view detailed product information, and make purchases.
@@ -17,4 +19,3 @@ This is a fully functional furniture shop website, designed to showcase various 
 - **CSS3** for styling and layout.
 - **JavaScript** for interactivity and functionality.
 - **Responsive Design** using media queries to ensure the website works on various screen sizes.
-<h3>Link : https://vikas04das.github.io/Furniture_Shop/</h3>
